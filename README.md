@@ -2,23 +2,6 @@
 
 This is the boilerplate for the Personal Library project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/personal-library
 
-
-
-VITO
-
-
-Build a full stack JavaScript app that is functionally similar to this: https://personal-library.freecodecamp.rocks/. Working on this project will involve you writing your code using one of the following methods:
-
-    Clone this GitHub repo and complete your project locally.
-    Use a site builder of your choice to complete the project. Be sure to incorporate all the files from our GitHub repo.
-
-    Add your MongoDB connection string to .env without quotes as DB Example: DB=mongodb://admin:pass@1234.mlab.com:1234/fccpersonallib
-    In your .env file set NODE_ENV to test, without quotes
-    You need to create all routes within routes/api.js
-    You will create all functional tests in tests/2_functional-tests.js
-
-
-
 Tests
 
 Waiting: 1. You can provide your own project, not the example URL.
